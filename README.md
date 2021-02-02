@@ -50,7 +50,7 @@ In this work, we first quantify the variation of risk calculation induced by the
 
 ### 5. Folder structure
 
-**1. Presentation**: the slides presented in [ASME Turbo Expo 2019](https://event.asme.org/Turbo-Expo-2019) conference.
+**1. Presentation**: the slides presented in [ASME Turbo Expo 2020](https://event.asme.org/Turbo-Expo-2020) conference.
 
 **2. MatlabScripts**: MATLAB source code and data to reproduce the results. The code and data are organized in individual folders corresponding to different sections in the paper. 
 
