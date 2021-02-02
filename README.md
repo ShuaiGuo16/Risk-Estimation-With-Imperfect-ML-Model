@@ -10,7 +10,7 @@
 - We trained a Gaussian Process model to approximate physical simulations with limited training data, and we quantified the risk prediction variations induced by the model uncertainty.
 - We developed and tested an active learning scheme, which allows training an accurate machine learning model with 50% of the training dataset.
 
-This work was firstly presented in [ASME Turbo Expo 2020](https://event.asme.org/Turbo-Expo-2020), and was later published in the journal:
+This work was initially presented in [ASME Turbo Expo 2020](https://event.asme.org/Turbo-Expo-2020), and was later published in the journal:
 
 Guo S., Silva C. F., Polifke W., [Reliable Calculation of Thermoacoustic Instability Risk Using an Imperfect Surrogate Model](https://asmedigitalcollection.asme.org/gasturbinespower/article-abstract/143/1/011010/1092194/Reliable-Calculation-of-Thermoacoustic-Instability?redirectedFrom=fulltext). *Journal of Engineering for Gas Turbines and Power*, 2021, 143(1), pp. 011010.
 
